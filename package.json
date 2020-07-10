@@ -1,0 +1,11 @@
+{
+  "name": "auth1",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^3.0.5",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0"
+  }
+}

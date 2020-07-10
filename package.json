@@ -1,8 +1,12 @@
 {
   "name": "auth1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/auth1app/auth1"
+  },
   "dependencies": {
     "cross-fetch": "^3.0.5",
     "debug": "^4.1.1",
